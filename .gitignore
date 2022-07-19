@@ -1,0 +1,7 @@
+nmsrv
+.vscode/
+*.http
+bin
+go
+*.out
+*.html
